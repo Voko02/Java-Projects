@@ -1,0 +1,22 @@
+<records>
+	<case>
+		<fahrenhiet>100</fahrenhiet>
+		<unit>Celsius</unit>
+	</case>
+	<case>
+		<fahrenhiet>-100</fahrenhiet>
+		<unit>Kelvin</unit>
+	</case>
+	<case>
+		<fahrenhiet>1 0 0</fahrenhiet>
+		<unit>Celsius</unit>
+	</case>
+	<case>
+		<fahrenhiet></fahrenhiet>
+		<unit>Kelvin</unit>
+	</case>
+	<case>
+		<fahrenhiet>50.5</fahrenhiet>
+		<unit>Celsius</unit>
+	</case>
+</records>
