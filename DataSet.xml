@@ -1,0 +1,38 @@
+<records>
+	<case>
+		<fullName> Alice Johnson</fullName>
+		<residencyStatus>In-State</residencyStatus>
+		<creditHours>12</creditHours>
+		<tuition>$3600</tuition>
+	</case>
+	<case>
+		<fullName> Bob Smith</fullName>
+		<residencyStatus>Out-of-State</residencyStatus>
+		<creditHours>15</creditHours>
+		<tuition>$8250</tuition>
+	</case>
+	<case>
+		<fullName> </fullName>
+		<residencyStatus>In-State</residencyStatus>
+		<creditHours>10</creditHours>
+		<tuition>Invalid</tuition>
+	</case>
+	<case>
+		<fullName> </fullName>
+		<residencyStatus>In-State</residencyStatus>
+		<creditHours>10</creditHours>
+		<tuition>Invalid</tuition>
+	</case>
+		<case>
+		<fullName>Sarah Henderson </fullName>
+		<residencyStatus>Out-of-State</residencyStatus>
+		<creditHours>abc</creditHours>
+		<tuition>Invalid</tuition>
+	</case>
+		<case>
+		<fullName>Karen Doherty</fullName>
+		<residencyStatus>No Residency</residencyStatus>
+		<creditHours>8</creditHours>
+		<tuition>Invalid</tuition>
+	</case>
+</records>	
